@@ -1,5 +1,4 @@
 {
-  
   "name": "covid_19_tracker",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +12,7 @@
     "@testing-library/user-event": "^12.8.3",
     "chart.js": "^2.9.4",
     "firebase-tools": "^9.10.0",
+    "heroku-cli": "^7.0.9",
     "leaflet": "^1.7.1",
     "numeral": "^2.0.6",
     "react": "^17.0.2",
